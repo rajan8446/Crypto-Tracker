@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.App {
+  /* text-align: center; */
+  background-color: #242527;
+  color: white;
+  min-height: 100vh;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+
+}
+
+a{
+  text-decoration: none;
+  color: rgb(235, 198, 16);
+}
+
+.typo{
+  flex: 1;
+  color: rgb(235, 210, 20);
+  font-family: Montserrat;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* .MuiPaginationItem-root{ color:gold !important } */

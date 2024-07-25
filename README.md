@@ -1,2 +1,2 @@
 # Crypto-Tracker
-You can track Cyrpto coins here
+You can track Crypto coins here
